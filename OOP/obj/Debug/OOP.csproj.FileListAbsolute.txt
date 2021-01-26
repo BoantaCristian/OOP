@@ -1,0 +1,12 @@
+D:\AngularCSharp\OOP\OOP\OOP\bin\Debug\OOP.exe.config
+D:\AngularCSharp\OOP\OOP\OOP\bin\Debug\OOP.exe
+D:\AngularCSharp\OOP\OOP\OOP\bin\Debug\OOP.pdb
+D:\AngularCSharp\OOP\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+D:\AngularCSharp\OOP\OOP\OOP\obj\Debug\OOP.exe
+D:\AngularCSharp\OOP\OOP\OOP\obj\Debug\OOP.pdb
+D:\OOP\OOP Animale\OOP\bin\Debug\OOP.exe.config
+D:\OOP\OOP Animale\OOP\bin\Debug\OOP.exe
+D:\OOP\OOP Animale\OOP\bin\Debug\OOP.pdb
+D:\OOP\OOP Animale\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+D:\OOP\OOP Animale\OOP\obj\Debug\OOP.exe
+D:\OOP\OOP Animale\OOP\obj\Debug\OOP.pdb

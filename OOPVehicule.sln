@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPVehicule", "OOPVehicule\OOPVehicule.csproj", "{FABFE197-2E48-4B97-88E0-B4DF5761EFA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABFE197-2E48-4B97-88E0-B4DF5761EFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABFE197-2E48-4B97-88E0-B4DF5761EFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABFE197-2E48-4B97-88E0-B4DF5761EFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABFE197-2E48-4B97-88E0-B4DF5761EFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {193B5C7F-98B5-4009-A505-BF5194512A33}
+	EndGlobalSection
+EndGlobal
