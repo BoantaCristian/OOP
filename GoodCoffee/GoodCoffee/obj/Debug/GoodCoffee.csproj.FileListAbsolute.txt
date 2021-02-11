@@ -1,0 +1,6 @@
+D:\OOP\coffee\GoodCoffee\GoodCoffee\bin\Debug\GoodCoffee.exe.config
+D:\OOP\coffee\GoodCoffee\GoodCoffee\bin\Debug\GoodCoffee.exe
+D:\OOP\coffee\GoodCoffee\GoodCoffee\bin\Debug\GoodCoffee.pdb
+D:\OOP\coffee\GoodCoffee\GoodCoffee\obj\Debug\GoodCoffee.csprojAssemblyReference.cache
+D:\OOP\coffee\GoodCoffee\GoodCoffee\obj\Debug\GoodCoffee.exe
+D:\OOP\coffee\GoodCoffee\GoodCoffee\obj\Debug\GoodCoffee.pdb
