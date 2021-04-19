@@ -1,0 +1,6 @@
+D:\OOP\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+D:\OOP\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+D:\OOP\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+D:\OOP\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csprojAssemblyReference.cache
+D:\OOP\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+D:\OOP\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb

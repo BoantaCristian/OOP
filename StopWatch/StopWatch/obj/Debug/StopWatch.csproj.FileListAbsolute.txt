@@ -1,0 +1,12 @@
+D:\OOP\stop watch\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+D:\OOP\stop watch\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+D:\OOP\stop watch\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+D:\OOP\stop watch\StopWatch\StopWatch\obj\Debug\StopWatch.csprojAssemblyReference.cache
+D:\OOP\stop watch\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+D:\OOP\stop watch\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
+D:\OOP\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+D:\OOP\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+D:\OOP\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+D:\OOP\StopWatch\StopWatch\obj\Debug\StopWatch.csprojAssemblyReference.cache
+D:\OOP\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+D:\OOP\StopWatch\StopWatch\obj\Debug\StopWatch.pdb

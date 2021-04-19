@@ -1,0 +1,6 @@
+D:\OOP\Logger - Composition\Logger - Composition\bin\Debug\Logger - Composition.exe.config
+D:\OOP\Logger - Composition\Logger - Composition\bin\Debug\Logger - Composition.exe
+D:\OOP\Logger - Composition\Logger - Composition\bin\Debug\Logger - Composition.pdb
+D:\OOP\Logger - Composition\Logger - Composition\obj\Debug\Logger - Composition.csprojAssemblyReference.cache
+D:\OOP\Logger - Composition\Logger - Composition\obj\Debug\Logger - Composition.exe
+D:\OOP\Logger - Composition\Logger - Composition\obj\Debug\Logger - Composition.pdb

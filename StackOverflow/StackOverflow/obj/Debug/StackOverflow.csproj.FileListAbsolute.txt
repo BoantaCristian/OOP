@@ -1,0 +1,6 @@
+D:\OOP\StackOverflow\StackOverflow\bin\Debug\StackOverflow.exe.config
+D:\OOP\StackOverflow\StackOverflow\bin\Debug\StackOverflow.exe
+D:\OOP\StackOverflow\StackOverflow\bin\Debug\StackOverflow.pdb
+D:\OOP\StackOverflow\StackOverflow\obj\Debug\StackOverflow.csprojAssemblyReference.cache
+D:\OOP\StackOverflow\StackOverflow\obj\Debug\StackOverflow.exe
+D:\OOP\StackOverflow\StackOverflow\obj\Debug\StackOverflow.pdb

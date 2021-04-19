@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Logger___Composition
+{
+    class Installer
+    {
+        private Logger _logger = new Logger();
+
+        public void Install()
+        {
+            _logger.Log("Installed");
+        }
+    }
+}

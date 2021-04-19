@@ -1,0 +1,6 @@
+D:\OOP\Interfaces Video Encoder\Interfaces Video Encoder\bin\Debug\Interfaces Video Encoder.exe.config
+D:\OOP\Interfaces Video Encoder\Interfaces Video Encoder\bin\Debug\Interfaces Video Encoder.exe
+D:\OOP\Interfaces Video Encoder\Interfaces Video Encoder\bin\Debug\Interfaces Video Encoder.pdb
+D:\OOP\Interfaces Video Encoder\Interfaces Video Encoder\obj\Debug\Interfaces Video Encoder.csprojAssemblyReference.cache
+D:\OOP\Interfaces Video Encoder\Interfaces Video Encoder\obj\Debug\Interfaces Video Encoder.exe
+D:\OOP\Interfaces Video Encoder\Interfaces Video Encoder\obj\Debug\Interfaces Video Encoder.pdb

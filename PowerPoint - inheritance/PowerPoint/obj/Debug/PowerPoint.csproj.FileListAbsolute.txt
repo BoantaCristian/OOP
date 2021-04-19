@@ -1,0 +1,6 @@
+D:\OOP\PowerPoint\PowerPoint\bin\Debug\PowerPoint.exe.config
+D:\OOP\PowerPoint\PowerPoint\bin\Debug\PowerPoint.exe
+D:\OOP\PowerPoint\PowerPoint\bin\Debug\PowerPoint.pdb
+D:\OOP\PowerPoint\PowerPoint\obj\Debug\PowerPoint.csprojAssemblyReference.cache
+D:\OOP\PowerPoint\PowerPoint\obj\Debug\PowerPoint.exe
+D:\OOP\PowerPoint\PowerPoint\obj\Debug\PowerPoint.pdb
